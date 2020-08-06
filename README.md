@@ -1,6 +1,7 @@
-![Ai](https://raw.githubusercontent.com/setiyawan12/setiyawan12/master/AI.gif)
-
 # Welcome To My Github Setiyawan  👋
+
+![Dino](https://raw.githubusercontent.com/setiyawan12/setiyawan12/master/Dino.gif)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=setiyawan12&label=Views&color=blue&style=plastic" alt="setiyawan" /> </p>
