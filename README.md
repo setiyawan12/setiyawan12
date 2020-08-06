@@ -1,6 +1,6 @@
 # Welcome To My Github Setiyawan  👋
 
-![Dino](https://raw.githubusercontent.com/setiyawan12/setiyawan12/master/Dino.gif)
+![Dino](https://raw.githubusercontent.com/setiyawan12/setiyawan12/master/dino.gif)
 
 
 
