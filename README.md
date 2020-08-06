@@ -1,3 +1,5 @@
+![Ai](https://raw.githubusercontent.com/setiyawan12/setiyawan12/master/AI.gif)
+
 # Welcome To My Github Setiyawan  👋
 
 
