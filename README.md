@@ -1,4 +1,4 @@
-# Welcome To My Github Setiyawan  👋
+# Welcome To My Github  👋
 
 ![Dino](https://raw.githubusercontent.com/setiyawan12/setiyawan12/master/dino.gif)
 
