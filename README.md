@@ -36,8 +36,8 @@
 - 
 
 <a href="https://github.com/setiyawan12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setiyawan12&theme=white&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setiyawan12&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/setiyawan12">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=setiyawan12&show_icons=true&theme=dark&line_height=27" alt="Setiyawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=setiyawan12&show_icons=true&theme=white&line_height=27" alt="Setiyawan's github stats"/>
 </a>
