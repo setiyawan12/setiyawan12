@@ -38,4 +38,9 @@
 <!-- <a href="https://github.com/setiyawan12">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=setiyawan12&show_icons=true&theme=white&line_height=27" alt="Setiyawan's github stats"/>
 </a> -->
-<a href="https://github.com/setiyawan12"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=setiyawan12&theme=react&line_height=40&hide=css"/> </a>
+<a href="https://github.com/setiyawan12"> 
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=setiyawan12&theme=react&line_height=40&hide=css"/>
+</a>
+<a href="https://github.com/setiyawan12"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=setiyawan12"/>
+</a>
